@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-All the repositories here are private. Sorry!
+All the important repositories here are private. Sorry!
